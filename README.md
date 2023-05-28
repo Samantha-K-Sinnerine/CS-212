@@ -1,2 +1,2 @@
-# CS-212
-object-oriented programming in java coding projects 
+# CSCI-212
+java object-oriented programming coding projects 
